@@ -1,1 +1,27 @@
-XG5hbWV7Y2hhdHN9ClxhbGlhc3tjaGF0c30KXGRvY1R5cGV7ZGF0YX0KXHRpdGxle1BhaXIgb2YgVmFyaWFibGVzfQpcZGVzY3JpcHRpb257ClRoaXMgZGF0YSBzZXQgaXMgYSBjb250aW5nZW5jeSB0YWJsZSBvZiBhZ2UgY2xhc3NlcyBhbmQgZmVjdW5kaXR5IGNsYXNzZXMgb2YgY2F0cyBcZW1waHtGZWxpcyBjYXR1c30uIAp9Clx1c2FnZXtkYXRhKGNoYXRzKX0KXGZvcm1hdHsKICAgIFxjb2Rle2NoYXRzfSBpcyBhIGRhdGEgZnJhbWUgd2l0aCA4IHJvd3MgYW5kIDggY29sdW1ucy5cY3IKICAgIFRoZSA4IHJvd3MgYXJlIGFnZSBjbGFzc2VzIChhZ2UxLCBcZG90cywgYWdlOCkuXGNyCiAgICBUaGUgOCBjb2x1bW5zIGFyZSBmZWN1bmRpdHkgY2xhc3NlcyAoZjAsIGYxMiwgZjM0LCBcZG90cywgZmNkKS5cY3IKICAgIFRoZSB2YWx1ZXMgYXJlIGNhdHMgbnVtYmVycyAoY29udGluZ2VuY3kgdGFibGUpLgp9Clxzb3VyY2V7CkxlZ2F5LCBKLk0uIGFuZCBQb250aWVyLCBELiAoMTk4NSkKUmVsYXRpb24gw6JnZS1mw6ljb25kaXTDqSBkYW5zIGxlcyBwb3B1bGF0aW9ucyBkZSBDaGF0cyBkb21lc3RpcXVlcywgRmVsaXMgY2F0dXMuClxlbXBoe01hbW1hbGlhfSwgXGJvbGR7NDl9LCAzOTUtLTQwMi4KfQpcZXhhbXBsZXN7CmRhdGEoY2hhdHMpCmNoYXRzdyA8LSBhcy50YWJsZSh0KGNoYXRzKSkKfQpca2V5d29yZHtkYXRhc2V0c30K
+\name{acacia}
+\alias{acacia}
+\docType{data}
+\title{Spatial pattern analysis in plant communities}
+\description{
+Counts of individuals of \emph{Acacia ehrenbergiana} from five parallel transects of 32 quadrats.
+}
+\usage{data(acacia)}
+\format{
+\code{acacia} is a data frame with 15 variables :\cr
+se.T1, se.T2, se.T3, se.T4, se.T5 are five numeric vectors containing quadrats counts of 
+seedlings from transects 1 to 5 respectively;\cr
+sm.T1, sm.T2, sm.T3, sm.T4, sm.T5 are five numeric vectors containing quadrats counts of
+ small trees (crown < 1 \eqn{m^{2}}{m^2} in canopy) of transects 1 to 5 respectively; \cr
+la.T1, la.T2, la.T3, la.T4, la.T5 are five numeric vectors containing quadrats counts of 
+trees with large crown (crown > 1 \eqn{m^{2}}{m^2} in canopy) of transects 1 to 5 respectively.
+}
+\source{
+Greig-Smith, P. and Chadwick, M.J. (1965) Data on pattern within plant communities. III. \emph{Acacia-Capparis} 
+semi-desert scrub in the Sudan. \emph{Journal of Ecology}, \bold{53}, 465--474.
+}
+\references{
+Hill, M.O. (1973) The intensity of spatial pattern in plant communities. \emph{Journal of Ecology}, \bold{61}, 225--235.
+}
+\examples{data(acacia)
+}
+\keyword{datasets}
