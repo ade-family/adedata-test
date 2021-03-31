@@ -1,1 +1,59 @@
-XG5hbWV7ZG91YnNqdH0KXGFsaWFze2RvdWJzanR9Clxkb2NUeXBle2RhdGF9Clx0aXRsZXtQYWlyIG9mIEVjb2xvZ2ljYWwgVGFibGVzfQpcZGVzY3JpcHRpb257ClRoaXMgZGF0YSBzZXQgZ2l2ZXMgZW52aXJvbm1lbnRhbCB2YXJpYWJsZXMsIGZpc2ggc3BlY2llcyBhbmQgc3BhdGlhbCBjb29yZGluYXRlcyBmb3IgMzAgc2l0ZXMuIAp9Clx1c2FnZXtkYXRhKGRvdWJzanQpfQpcZm9ybWF0ewogICAgXGNvZGV7ZG91YnNqdH0gaXMgYSBsaXN0IHdpdGggNCBjb21wb25lbnRzLgogICAgXGRlc2NyaWJlewogICAgICAgIFxpdGVte2Vudn17aXMgYSBkYXRhIGZyYW1lIHdpdGggMzAgcm93cyAoc2l0ZXMpIGFuZCAxMSBlbnZpcm9ubWVudGFsIHZhcmlhYmxlcy59CiAgICAgICAgXGl0ZW17ZmlzaH17aXMgYSBkYXRhIGZyYW1lIHdpdGggMzAgcm93cyAoc2l0ZXMpIGFuZCAyNyBmaXNoIHNwZWNpZXMufQogICAgICAgIFxpdGVte3h5fXtpcyBhIGRhdGEgZnJhbWUgd2l0aCAzMCByb3dzIChzaXRlcykgIGFuZCAyIHNwYXRpYWwgY29vcmRpbmF0ZXMufQogICAgICAgIFxpdGVte3NwZWNpZXN9e2lzIGEgZGF0YSBmcmFtZSB3aXRoIDI3IHJvd3MgKHNwZWNpZXMpICBhbmQgNCBjb2x1bW5zIChuYW1lcykufQogICAgfQp9ClxkZXRhaWxzewpUaGUgcm93cyBvZiBcY29kZXtkb3Vic2p0JGVudn0sIFxjb2Rle2RvdWJzanQkZmlzaH0gYW5kIFxjb2Rle2RvdWJzanQkeHl9IGFyZSAzMCBzaXRlcyBhbG9uZyB0aGUgZG91YnNqdCwgYSBGcmVuY2ggYW5kIFN3aXR6ZXJsYW5kIHJpdmVyLgoKXGNvZGV7ZG91YnNqdCRlbnZ9IGNvbnRhaW5zIHRoZSBmb2xsb3dpbmcgdmFyaWFibGVzOgpkZnMgLSBkaXN0YW5jZSBmcm9tIHRoZSBzb3VyY2UgKGttICogMTApLCAKYWx0IC0gYWx0aXR1ZGUgKG0pLCAKc2xvIChcZXFue1xsbih4ICsgMSl9e2xvZyh4ICsgMSl9IHdoZXJlIFxlbXBoe3h9IGlzIHRoZSBzbG9wZSAocGVyIG1pbCAqIDEwMCksIApmbG8gLSBtaW5pbXVtIGF2ZXJhZ2Ugc3RyZWFtIGZsb3cgKG0zL3MgKiAxMDApLCAKcEggKCogMTApLCAKaGFyIC0gdG90YWwgaGFyZG5lc3Mgb2Ygd2F0ZXIgKG1nL2wgb2YgQ2FsY2l1bSksIApwaG8gLSBwaG9zcGhhdGVzIChtZy9sICogMTAwKSwgCm5pdCAtIG5pdHJhdGVzIChtZy9sICogMTAwKSwgCmFtbSAtIGFtbW9uaWEgbml0cm9nZW4gKG1nL2wgKiAxMDApLCAKb3h5IC0gZGlzc29sdmVkIG94eWdlbiAobWcvbCAqIDEwKSwgCmJkbyAtIGJpb2xvZ2ljYWwgZGVtYW5kIGZvciBveHlnZW4gKG1nL2wgKiAxMCkuCgpcY29kZXtkb3Vic2p0JGZpc2h9IGNvbnRhaW5zIHRoZSBhYnVuZGFuY2Ugb2YgdGhlIGZvbGxvd2luZyBmaXNoIHNwZWNpZXM6IFxlbXBoe0NvdHR1cyBnb2Jpb30gKENvZ28pLCBcZW1waHtTYWxtbyB0cnV0dGEgZmFyaW99IChTYXRyKSwgClxlbXBoe1Bob3hpbnVzIHBob3hpbnVzfSAoUGhwaCksIFxlbXBoe05lbWFjaGVpbHVzIGJhcmJhdHVsdXN9IChOZWJhKSwgXGVtcGh7VGh5bWFsbHVzIHRoeW1hbGx1c30gKFRodGgpLCBcZW1waHtUZWxlc3RlcyBzb3VmaWEgYWdhc3Npeml9IChUZXNvKSwgClxlbXBoe0Nob25kcm9zdG9tYSBuYXN1c30gKENobmEpLCBcZW1waHtDaG9uZG9zdHJvbWEgdG94b3N0b21hfSAoQ2h0byksIFxlbXBoe0xldWNpc2N1cyBsZXVjaXNjdXN9IChMZWxlKSwgXGVtcGh7TGV1Y2lzY3VzIGNlcGhhbHVzIGNlcGhhbHVzfSAoTGVjZSksIApcZW1waHtCYXJidXMgYmFyYnVzfSAoQmFiYSksIFxlbXBoe1NwaXJsaW51cyBiaXB1bmN0YXR1c30gKFNwYmkpLCBcZW1waHtHb2JpbyBnb2Jpb30gKEdvZ28pLCBcZW1waHtFc294IGx1Y2l1c30gKEVzbHUpLCAKXGVtcGh7UGVyY2EgZmx1dmlhdGlsaXN9IChQZWZsKSwgXGVtcGh7UmhvZGV1cyBhbWFydXN9IChSaGFtKSwgXGVtcGh7TGVwb21pcyBnaWJib3N1c30gKExlZ2kpLCBcZW1waHtTY2FyZGluaXVzIGVyeXRocm9waHRhbG11c30gKFNjZXIpLCAKXGVtcGh7Q3lwcmludXMgY2FycGlvfSAoQ3ljYSksIFxlbXBoe1RpbmNhIHRpbmNhfSAoVGl0aSksIFxlbXBoe0FicmFtaXMgYnJhbWF9IChBYmJyKSwgXGVtcGh7SWN0YWx1cnVzIG1lbGFzfSAoSWNtZSksIApcZW1waHtBY2VyaW5hIGNlcm51YX0gKEFjY2UpLCBcZW1waHtSdXRpbHVzIHJ1dGlsdXN9IChSdXJ1KSwgXGVtcGh7QmxpY2NhIGJqb2Vya25hfSAoQmxiaiksIFxlbXBoe0FsYnVybnVzIGFsYnVybnVzfSAoQWxhbCksIApcZW1waHtBbmd1aWxsYSBhbmd1aWxsYX0gKEFuYW4pLgoKXGNvZGV7ZG91YnNqdCRzcGVjaWVzfSBjb250YWlucyB0aGUgbmFtZXMgb2YgdGhlIDI3IGZpc2ggc3BlY2llcy4gVGhlIGZvdXIgY29sdW1ucyBjb3JyZXNwb25kIHRvOiAxID0gc2NpZW50aWZpYyBuYW1lIChHZW51cyBzcGVjaWVzKSwgMiA9IEZyZW5jaCBjb21tb24gbmFtZSwgMyA9IEVuZ2xpc2ggY29tbW9uIG5hbWUsIDQgPSBGb3VyIGNoYXJhY3RlciBjb2RlLgoKfQpcc291cmNlewogVmVybmVhdXgsIEouICgxOTczKSAKIFxlbXBoe0NvdXJzIGQnZWF1IGRlIEZyYW5jaGUtQ29tdMOpIChNYXNzaWYgZHUgSnVyYSkuIAogUmVjaGVyY2hlcyDDqWNvbG9naXF1ZXMgc3VyIGxlIHLDqXNlYXUgaHlkcm9ncmFwaGlxdWUgZHUgRG91YnMuIEVzc2FpIGRlIGJpb3R5cG9sb2dpZX0uIAogVGjDqHNlIGQnw6l0YXQsIEJlc2Fuw6dvbi4gMS0tMjU3Lgp9ClxyZWZlcmVuY2VzewpTZWUgYSBGcmVuY2ggZGVzY3JpcHRpb24gb2YgZmlzaCBzcGVjaWVzIGF0IFx1cmx7aHR0cDovL3BiaWwudW5pdi1seW9uMS5mci9SL3BkZi9wcHMwNDcucGRmfS5cY3IKQ2hlc3NlbCwgRC4sIExlYnJldG9uLCBKLkQuIGFuZCBZb2Njb3osIE4uRy4gKDE5ODcpIFByb3ByacOpdMOpcyBkZSBsJ2FuYWx5c2UgY2Fub25pcXVlIGRlcyBjb3JyZXNwb25kYW5jZXMuIFVuZSBpbGx1c3RyYXRpb24KZW4gaHlkcm9iaW9sb2dpZS4gXGVtcGh7UmV2dWUgZGUgU3RhdGlzdGlxdWUgQXBwbGlxdcOpZX0sIFxib2xkezM1fSwgNCwgNTUtLTcyLgp9ClxleGFtcGxlc3sKfQpca2V5d29yZHtkYXRhc2V0c30K
+\name{doubsjt}
+\alias{doubsjt}
+\docType{data}
+\title{Pair of Ecological Tables}
+\description{
+This data set gives environmental variables, fish species and spatial coordinates for 30 sites. 
+}
+\usage{data(doubsjt)}
+\format{
+    \code{doubsjt} is a list with 4 components.
+    \describe{
+        \item{env}{is a data frame with 30 rows (sites) and 11 environmental variables.}
+        \item{fish}{is a data frame with 30 rows (sites) and 27 fish species.}
+        \item{xy}{is a data frame with 30 rows (sites)  and 2 spatial coordinates.}
+        \item{species}{is a data frame with 27 rows (species)  and 4 columns (names).}
+    }
+}
+\details{
+The rows of \code{doubsjt$env}, \code{doubsjt$fish} and \code{doubsjt$xy} are 30 sites along the doubsjt, a French and Switzerland river.
+
+\code{doubsjt$env} contains the following variables:
+dfs - distance from the source (km * 10), 
+alt - altitude (m), 
+slo (\eqn{\ln(x + 1)}{log(x + 1)} where \emph{x} is the slope (per mil * 100), 
+flo - minimum average stream flow (m3/s * 100), 
+pH (* 10), 
+har - total hardness of water (mg/l of Calcium), 
+pho - phosphates (mg/l * 100), 
+nit - nitrates (mg/l * 100), 
+amm - ammonia nitrogen (mg/l * 100), 
+oxy - dissolved oxygen (mg/l * 10), 
+bdo - biological demand for oxygen (mg/l * 10).
+
+\code{doubsjt$fish} contains the abundance of the following fish species: \emph{Cottus gobio} (Cogo), \emph{Salmo trutta fario} (Satr), 
+\emph{Phoxinus phoxinus} (Phph), \emph{Nemacheilus barbatulus} (Neba), \emph{Thymallus thymallus} (Thth), \emph{Telestes soufia agassizi} (Teso), 
+\emph{Chondrostoma nasus} (Chna), \emph{Chondostroma toxostoma} (Chto), \emph{Leuciscus leuciscus} (Lele), \emph{Leuciscus cephalus cephalus} (Lece), 
+\emph{Barbus barbus} (Baba), \emph{Spirlinus bipunctatus} (Spbi), \emph{Gobio gobio} (Gogo), \emph{Esox lucius} (Eslu), 
+\emph{Perca fluviatilis} (Pefl), \emph{Rhodeus amarus} (Rham), \emph{Lepomis gibbosus} (Legi), \emph{Scardinius erythrophtalmus} (Scer), 
+\emph{Cyprinus carpio} (Cyca), \emph{Tinca tinca} (Titi), \emph{Abramis brama} (Abbr), \emph{Ictalurus melas} (Icme), 
+\emph{Acerina cernua} (Acce), \emph{Rutilus rutilus} (Ruru), \emph{Blicca bjoerkna} (Blbj), \emph{Alburnus alburnus} (Alal), 
+\emph{Anguilla anguilla} (Anan).
+
+\code{doubsjt$species} contains the names of the 27 fish species. The four columns correspond to: 1 = scientific name (Genus species), 2 = French common name, 3 = English common name, 4 = Four character code.
+
+}
+\source{
+ Verneaux, J. (1973) 
+ \emph{Cours d'eau de Franche-Comté (Massif du Jura). 
+ Recherches écologiques sur le réseau hydrographique du Doubs. Essai de biotypologie}. 
+ Thèse d'état, Besançon. 1--257.
+}
+\references{
+See a French description of fish species at \url{http://pbil.univ-lyon1.fr/R/pdf/pps047.pdf}.\cr
+Chessel, D., Lebreton, J.D. and Yoccoz, N.G. (1987) Propriétés de l'analyse canonique des correspondances. Une illustration
+en hydrobiologie. \emph{Revue de Statistique Appliquée}, \bold{35}, 4, 55--72.
+}
+\examples{
+}
+\keyword{datasets}
