@@ -31,15 +31,6 @@ The rows of \code{hdpg$pop} are the names of the 52 populations belonging to the
 contained in the rows of \code{hdpg$region}. The chosen regions are: America, Asia, Europe, 
 Middle East North Africa, Oceania, Subsaharan AFRICA. \cr
 
-
-
-lionel
-
-
-
-
-
-
 The 52 populations are: Adygei, Balochi, Bantu, Basque, Bedouin, Bergamo, Biaka Pygmies, 
 Brahui, Burusho, Cambodian, Columbian, Dai, Daur, Druze, French, 
 Han, Hazara, Hezhen, Japanese, Kalash, Karitiana, Lahu, Makrani, Mandenka, Maya,
